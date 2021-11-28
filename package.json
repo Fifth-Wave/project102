@@ -1,16 +1,16 @@
 {
-  "name": "parcel-project-template",
-  "version": "1.1.0",
+  "name": "project102",
+  "version": "1.2.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://goitacademy.github.io/parcel-project-template",
+  "homepage": "https://github.com/Fifth-Wave/project102",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-project-template/"
+    "build": "parcel build src/*.html --public-url /project102/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://github.com/Fifth-Wave/project102.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
