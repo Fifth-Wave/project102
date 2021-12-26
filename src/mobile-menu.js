@@ -4,8 +4,6 @@
   const closeMenuBtn = document.querySelector('.js-close-menu');
   const selectMenuItem = document.querySelectorAll('.mobile-container__menu [item]');
 
-  console.log(selectMenuItem);
-
   const toggleMenu = () => {
     const isMenuOpen = openMenuBtn.getAttribute('aria-expanded') === 'true' || false;
     openMenuBtn.setAttribute('aria-expanded', !isMenuOpen);
